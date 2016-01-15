@@ -1,7 +1,7 @@
 # Django settings for obi project.
 from os.path import abspath, dirname
 
-DEBUG = True
+DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
